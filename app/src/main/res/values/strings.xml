@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="FruitsName">
+
+        <item name="fruit"> Apple </item>
+        <item name="fruit"> Orange </item>
+        <item name="fruit"> Guava </item>
+        <item name="fruit"> Mango </item>
+        <item name="fruit"> Jackfruit </item>
+        <item name="fruit"> Olive </item>
+        <item name="fruit"> Mango </item>
+        <item name="fruit"> Apple </item>
+
+        <item name="fruit"> Kiwi </item>
+        <item name="fruit"> Orange </item>
+        <item name="fruit"> Guava </item>
+        <item name="fruit"> Mango </item>
+        <item name="fruit"> Jackfruit </item>
+        <item name="fruit"> Olive </item>
+        <item name="fruit"> Mango </item>
+        <item name="fruit"> Thenga </item>
+
+
+    </string-array>
+
+
+</resources>
